@@ -1,2 +1,0 @@
-# travelpunk-web-app
-travelPunk
